@@ -7,7 +7,8 @@ int strLength, N;
 
 void getStr();
 
-int main() {
+int main2() {
+	cout << "Hi";
 	cin >> strLength >> N;
 	getStr();
 	
@@ -18,12 +19,6 @@ void getStr() {
 	for (int i=0;i<N;i++) 
 	{
 		cin >> str[0];
-		if (i>0)
-		{
-			if ()
-			{
-
-			}
-		}
+	
 	}
 }
